@@ -168,7 +168,6 @@ wysebrowser.exe
 qq.exe
 qqpcmgr.exe
 konea.exe
-quickassist.exe
 radmin.exe
 tdp2tcp.exe
 rdp2tcp.py
